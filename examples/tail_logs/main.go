@@ -6,8 +6,8 @@ import (
 	"log"
 	"time"
 
-	examples "github.com/mycontroller-org/esphome_api/examples"
-	types "github.com/mycontroller-org/esphome_api/pkg/types"
+	examples "github.com/rockavoldy/esphome_api/examples"
+	types "github.com/rockavoldy/esphome_api/pkg/types"
 	"google.golang.org/protobuf/proto"
 )
 

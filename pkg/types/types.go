@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/mycontroller-org/esphome_api/pkg/api"
+	"github.com/rockavoldy/esphome_api/pkg/api"
 	"google.golang.org/protobuf/proto"
 )
 

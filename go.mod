@@ -1,10 +1,10 @@
-module github.com/mycontroller-org/esphome_api
+module github.com/rockavoldy/esphome_api
 
-go 1.18
+go 1.20
 
 require (
-	github.com/flynn/noise v1.0.1-0.20220214164934-d803f5c4b0f4
-	google.golang.org/protobuf v1.28.0
+	github.com/flynn/noise v1.0.0
+	google.golang.org/protobuf v1.31.0
 )
 
 require (

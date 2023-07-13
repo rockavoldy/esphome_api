@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	examples "github.com/mycontroller-org/esphome_api/examples"
+	examples "github.com/rockavoldy/esphome_api/examples"
 )
 
 func main() {

@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mycontroller-org/esphome_api/pkg/api"
-	types "github.com/mycontroller-org/esphome_api/pkg/types"
+	"github.com/rockavoldy/esphome_api/pkg/api"
+	types "github.com/rockavoldy/esphome_api/pkg/types"
 	"google.golang.org/protobuf/proto"
 )
 
