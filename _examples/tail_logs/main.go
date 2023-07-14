@@ -7,7 +7,7 @@ import (
 	"time"
 
 	examples "github.com/rockavoldy/esphome_api/examples"
-	types "github.com/rockavoldy/esphome_api/pkg/types"
+	types "github.com/rockavoldy/esphome_api/types"
 	"google.golang.org/protobuf/proto"
 )
 

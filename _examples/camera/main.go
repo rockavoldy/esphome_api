@@ -8,8 +8,8 @@ import (
 	"log"
 	"time"
 
+	"github.com/rockavoldy/esphome_api/api"
 	examples "github.com/rockavoldy/esphome_api/examples"
-	"github.com/rockavoldy/esphome_api/pkg/api"
 	"google.golang.org/protobuf/proto"
 )
 

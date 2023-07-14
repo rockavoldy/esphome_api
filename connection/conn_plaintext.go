@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rockavoldy/esphome_api/pkg/api"
-	types "github.com/rockavoldy/esphome_api/pkg/types"
+	"github.com/rockavoldy/esphome_api/api"
+	types "github.com/rockavoldy/esphome_api/types"
 	"google.golang.org/protobuf/proto"
 )
 

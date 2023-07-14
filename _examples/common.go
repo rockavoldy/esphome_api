@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	esphome "github.com/rockavoldy/esphome_api/pkg/client"
+	esphome "github.com/rockavoldy/esphome_api/client"
 	"google.golang.org/protobuf/proto"
 )
 

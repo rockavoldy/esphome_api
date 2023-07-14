@@ -9,9 +9,9 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"github.com/rockavoldy/esphome_api/pkg/api"
-	"github.com/rockavoldy/esphome_api/pkg/connection"
-	types "github.com/rockavoldy/esphome_api/pkg/types"
+	"github.com/rockavoldy/esphome_api/api"
+	"github.com/rockavoldy/esphome_api/connection"
+	types "github.com/rockavoldy/esphome_api/types"
 )
 
 // Client struct.

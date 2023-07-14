@@ -4,6 +4,7 @@
 // 	protoc        v4.23.4
 // source: api.proto
 
+//go:nodoc
 package api
 
 import (
